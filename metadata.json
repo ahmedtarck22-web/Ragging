@@ -1,0 +1,6 @@
+{
+  "name": "Lumi 3D Rigging Studio",
+  "description": "Interactive 3D character and mesh rigging studio with skeletal bone editing, vertex weight painting, keyframe animation, and GLB export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
